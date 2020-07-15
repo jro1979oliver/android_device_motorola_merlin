@@ -14,7 +14,7 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_merlin.mk
+    $(LOCAL_DIR)/aosp_merlin.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_merlin-userdebug
+    aosp_merlin-userdebug
